@@ -1,8 +1,8 @@
 NAME=gobject-introspection
-VERSION=1.54.1
-REVISION=1
+VERSION=1.58.0
+REVISION=2
 LICENSE=GPL-2.0-only LGPL-2.1-only
-SRC=http://ftp.gnome.org/pub/gnome/sources/gobject-introspection/1.54/gobject-introspection-1.54.1.tar.xz
-SRCMD5=126c29e4d54adbed2ed4e2b04483de41
+SRC=http://ftp.gnome.org/pub/gnome/sources/gobject-introspection/1.58/gobject-introspection-1.58.0.tar.xz
+SRCMD5=94fec875276262037bfcd51226db12fe
 BUILDDEPS=glib2 python3 which
 INSTALLDEPS=glib2 python3 which
